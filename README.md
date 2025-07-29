@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails project that was built following instructions in order to get introduced to Routes, Models, Controllers, Views, and Migrations.
+The first steps into this new world.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is part of The Odin Project’s Ruby on Rails Curriculum. Find it at https://www.theodinproject.com
